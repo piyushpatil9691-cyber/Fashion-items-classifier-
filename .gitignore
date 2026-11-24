@@ -1,0 +1,14 @@
+# Python Cache
+__pycache__/
+*.pyc
+
+# Virtual Environment
+venv/
+
+# IDE/OS files
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Dataset
+data/
